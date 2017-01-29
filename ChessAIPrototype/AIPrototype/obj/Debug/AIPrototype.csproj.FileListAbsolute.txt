@@ -1,0 +1,1 @@
+C:\Users\Nate\Documents\GitHub\ChessAIPrototype\AIPrototype\bin\Debug\AIPrototype.exe.config
